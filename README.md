@@ -2,39 +2,9 @@
 
  SAK FiveM External Mod Menu
 
-General
-:Aimbot
-::SilentAim
-:triggerbot
-:Magic Bullet
-:Visuals
-:Dynamic Skeleton
-::Static Skeleton
-:PlayerName
-:Weapon Name
-:ESP Box
-:Colored Skeleton
-:Visible Color
-:Many more...
-Misc
-:God Mode
-:Semi GodMode
-:Spectate Player
-:Teleport to Waypoint
-:Teleport Locations
-:Super Jump
-:Explosive Ammo
-:Damage Boost
-:Range Bypass
-:No Ragdoll
-:No Recoil
-:No Reload
-:Vechicles Features
-:Advanced Speed
-:Many more...
-Configs
-:Menu Keys
-:StreamProof
-:Anti PC Check
-:Export Config / Import
- 
+ SAK FiveM External Mod Menu  🎮
+Welcome to the FiveM External Cheat repository! This project enhances your FiveM gameplay with various features designed to improve your gaming experience.
+
+Introduction
+FiveM is a popular modification framework for Grand Theft Auto V, allowing players to create and join custom multiplayer servers. Our external cheat provides tools to help you gain an edge in the game.
+
